@@ -15,7 +15,7 @@
 
 # 🛠PROJECTS SHOWCASE:
 - [Project 1: Time-Based Performace Analysis of Bukunola Enterprise Ltd](https://github.com/bankoleifeolukayode/Project-1.git).
-- [Project 2 Name]: Brief description and link to the project repository.
+- [Project 2: Product Profitability Analysis of Tapspin Enterprise](https://github.com/bankoleifeolukayode/Project-2/tree/main)
 - [Project 3 Name]: Brief description and link to the project repository.
 
 📚 *Continuous Learner:* In the ever-evolving landscape of data analytics, I am committed to staying at the forefront of industry trends and expanding my skill set.
