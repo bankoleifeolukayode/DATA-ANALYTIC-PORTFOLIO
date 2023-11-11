@@ -15,8 +15,15 @@
 
 # 🛠PROJECTS SHOWCASE:
 - [Project 1: Time-Based Performace Analysis of Bukunola Enterprise Ltd](https://github.com/bankoleifeolukayode/Project-1.git).
-- [Project 2: Product Profitability Analysis of Tapspin Enterprise](https://github.com/bankoleifeolukayode/Project-2/tree/main)
+- [Project 2: Product Profitability Analysis of Tapspin Enterprise](https://github.com/bankoleifeolukayode/Project-2/tree/main).
 - [Project 3: Beverage Sales PowerBI Project Report](https://github.com/bankoleifeolukayode/Project-3/blob/main/README.md#project-3).
+- [Project-4: Covid-19 Africa](https://github.com/bankoleifeolukayode/Project-4/edit/main/README.md#project-4).
+- [Project-5: Global Terrorism Analysis](https://github.com/bankoleifeolukayode/Project-5).
+- [Project-6: Olympic Data 2020](https://github.com/bankoleifeolukayode/Project-6).
+- [Project-7: World Bank Loan](https://github.com/bankoleifeolukayode/Project-7).
+- [Project-8: Titanic Survival](https://github.com/bankoleifeolukayode/Project-8).
+- [Project-9: HR Analytics](https://github.com/bankoleifeolukayode/Project-9).
+- [Project-10: Northwind](https://github.com/bankoleifeolukayode/Project-10).
 
 📚 *Continuous Learner:* In the ever-evolving landscape of data analytics, I am committed to staying at the forefront of industry trends and expanding my skill set.
 
