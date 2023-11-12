@@ -23,7 +23,6 @@
 - [Project-7: World Bank Loan](https://github.com/bankoleifeolukayode/Project-7).
 - [Project-8: Titanic Survival](https://github.com/bankoleifeolukayode/Project-8).
 - [Project-9: HR Analytics](https://github.com/bankoleifeolukayode/Project-9).
-- [Project-10: Northwind](https://github.com/bankoleifeolukayode/Project-10).
 
 📚 *Continuous Learner:* In the ever-evolving landscape of data analytics, I am committed to staying at the forefront of industry trends and expanding my skill set.
 
